@@ -3,7 +3,7 @@
 *
 * 1. Window Binding - is in the golbal scope and it points to the window object.
 * 2. Implicit Binding - when  the this keyword has a dot after the this key word points to the function to its left.
-* 3. New Binding - is used to creat a new object based of a constructor function.
+* 3. New Binding - is used to creat a new object based  on a constructor function.
 * 4. Explicit binding - when call or apply method is used.
 *
 * write out a code example of each explanation above
