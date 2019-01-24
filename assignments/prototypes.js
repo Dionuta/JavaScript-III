@@ -61,7 +61,7 @@ CharacterStats.prototype.takeDamage = function () {
    this.language = HumanoidAttributes.language;  
  }
 
- Humanoid.prototype = Object.create(GameObject.prototype);
+ 
  Humanoid.prototype = Object.create(CharacterStats.prototype);
 
 
